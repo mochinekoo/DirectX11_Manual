@@ -1,29 +1,10 @@
-# DirectX/CGなどの用語
-* デバイス
-* 深度バッファ
-* レンダーターゲットビュー
-* ブレンド
-* ラスタライザー
-* ビューポート
-* スワップチェイン
-* インデックスバッファ
-* 頂点バッファ
-* コンスタントバッファ
-* ピクセルシェーダー
-* 頂点シェーダー
+# 概要
+* DirectX11のマニュアルです。
+* 学習しながら書いているので、おそらく間違いがあると思います。issuesの方でぜひお願いいたします。
 
-# Win32
-* メイン関数は WinMainで始まる。
+# 開発環境
+* Windows10
+* （マニュアル）WebStorm 2026 2.2
+* （DirectX11）Visual Studio 2026
 
-# Win32の用語
-* ウインドウ
-* ウインドウクラス
-* ウインドウプロシージャー
-* メッセージ
-* ハンドル
-
-# ラスタライザー
-* 公式のページ：https://learn.microsoft.com/ja-jp/windows/win32/api/d3d11/ns-d3d11-d3d11_rasterizer_desc
-
-# ビューポート
-* 公式のページ：https://learn.microsoft.com/ja-jp/windows/win32/api/d3d11/ns-d3d11-d3d11_viewport
+# アクセス方法
