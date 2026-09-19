@@ -1,0 +1,14 @@
+.box {
+    margin: 20px;
+    background-color: aliceblue;
+    border: black solid 3px;
+    font-family: "Noto Sans JP Black", serif;
+    font-weight: bold;
+}
+
+.box a {
+    color: #39874d;
+    text-decoration: none;
+    font-family: "Noto Sans JP Black", serif;
+    font-weight: lighter;
+}

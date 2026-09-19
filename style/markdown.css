@@ -1,0 +1,24 @@
+.markdown {
+    margin: 20px;
+}
+
+.markdown_top_text {
+    color: #000000;
+    margin-left: 5px;
+    font-family: "Noto Sans JP Black", serif;
+    font-weight: bold;
+    font-size: 20px;
+    align-content: center;
+    border-bottom: 2px solid #6c6a6a;
+}
+
+.markdown_normal_text {
+    color: #000000;
+    margin-left: 5px;
+    font-family: "Noto Sans JP Black", serif;
+    font-weight: lighter;
+    font-size: 20px;
+    align-content: center;
+    margin-top: 5px;
+}
+
