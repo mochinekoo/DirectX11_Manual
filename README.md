@@ -8,3 +8,5 @@
 * （DirectX11）Visual Studio 2026
 
 # アクセス方法
+* マークダウン版：https://github.com/mochinekoo/DirectX11_Manual/tree/main/markdown
+* 静的ページ版：https://mochinekoo.github.io/DirectX11_Manual/
